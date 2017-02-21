@@ -1,0 +1,10 @@
+﻿Build started 21-02-2017 19:20:00.
+     1>Project "E:\GITHUB-REPOSITORY\NetSim-v9.1-projects\Sinkhole_Attack_AODV_v9.1\AODV\AODV.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\AODV.lastbuildstate".
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.Targets(511,5): error MSB8008: Specified platform toolset (v140) is not installed or invalid. Please make sure that a supported PlatformToolset value is selected.
+     1>Done Building Project "E:\GITHUB-REPOSITORY\NetSim-v9.1-projects\Sinkhole_Attack_AODV_v9.1\AODV\AODV.vcxproj" (rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.22
